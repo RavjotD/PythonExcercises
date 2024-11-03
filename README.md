@@ -7,7 +7,7 @@
 - Make sure Python and VScode is installed or an alternative environment.
 - Create a local directory on your system and clone the repo:
            - ```
-             git clone [repo http link]
+             git clone <repo http link>
              ```
 - Open up your programming environment and have your python interpreter selected.
 
