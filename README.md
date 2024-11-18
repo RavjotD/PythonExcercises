@@ -1,11 +1,11 @@
 # PythonExcercises
-- This Repo consist of three branches that offer different algorithm practices such as SelectionSort and MoveZeros.
-- The Repo demonstrates an understanding of Git Worksflows, with practices of creating separate branches that reflect different features of entire codebase.
-- Each feature is validated through Unit testing, feel free to downlaod the codebase.
+- This repository consist of three branches that offer different algorithm practices, such as SelectionSort and MoveZeros.
+- The repository demonstrates an understanding of Git Worksflows, with practices of creating separate branches that reflect different features of an a entire codebase.
+- Each feature is validated through Unit testing. Feel free to downlaod the codebase.
 
 ## Getting started:
-- Make sure Python and VScode is installed or an alternative environment.
-- Create a local directory on your system and clone the repo:
+- Install Python and VScode or an alternative environment.
+- Create a local directory on your system and clone the repository:
            - ```
              git clone <repo http link>
              ```
