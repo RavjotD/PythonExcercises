@@ -1,14 +1,14 @@
 # Selection Sort
-# Check for smallest minimum value that and processes a swap until all elements are swapped in order from smallest to largest.
+# Check for smallest minimum value between elements in a array.
+# Processes a swap until all smallest valued elements are swapped in order from smallest to largest.
 
 def SelectionSort(A):
     size = len(A)
-    # for each iteration of array
+    # for first iteration check of array array, instalize a minimum varaible for each check
     for x in range(size):
-        # x = minimum value
         minimal = x
-        # for iteration of every second value in array, first two values need to compare
-        # Swap occures of conditional is true, return sorted array
+        # for iteration of every value of in front of x index in array, condition to comparae smalleer valued elements.
+        # Swap occures if conditional is true, return sorted array
         for j in range( x + 1, size):
             if A[j] < A[minimal]:
                 minimal = j
