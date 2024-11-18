@@ -1,6 +1,6 @@
 # PythonExcercises
-- This Repo consist of three branches that offer different algorithms practices such as SelctionSort and MoveZeros.
-- The Repo demonstrates an understanding of Git Worksflows, with practices consisting of creating separate branches that reflect different features of a codebase.
+- This Repo consist of three branches that offer different algorithm practices such as SelectionSort and MoveZeros.
+- The Repo demonstrates an understanding of Git Worksflows, with practices of creating separate branches that reflect different features of entire codebase.
 - Each feature is validated through Unit testing, feel free to downlaod the codebase.
 
 ## Getting started:
